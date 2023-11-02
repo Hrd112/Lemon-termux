@@ -60,9 +60,9 @@
 
 ## INSTALLATION [Termux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `apt install python python2 -y`
+* `apt update && apt upgrade -y`
+* `pkg install git`
+* `git clone `
 * `pip install lolcat`
 * `git clone https://github.com/h4ck3r0/Lemon-termux`
 * `cd Lemon-termux`
