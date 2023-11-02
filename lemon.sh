@@ -16,7 +16,7 @@ echo '
    ██       █████  ██ ████ ██ ██    ██ ██ ██  ██ 
    ██           ██ ██  ██  ██ ██    ██ ██  ██ ██ 
    ███████ ██████  ██      ██  ██████  ██   ████ 
-                                   github.com/h4ck3r0
+                                   github.com/Hrd112
                            
 ' | lolcat                           
  echo -e "\e[1;31m [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92m Youtube.com/c/H4Ck3R0\e[0m"
@@ -47,7 +47,4 @@ echo -e "\e[34mTHANKS TO D3VL[\e[92m✓\e[34m]\e[92m"
 sleep 5.0
 clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
-
-
-termux-open-url https://www.h4ck3r.me/
 
