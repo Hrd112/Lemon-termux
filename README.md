@@ -62,12 +62,10 @@
 
 * `apt update && apt upgrade -y`
 * `pkg install git`
-* `git clone `
+* `git clone https://github.com/Hrd112/Lemon-termux.git`
 * `pip install lolcat`
-* `git clone https://github.com/h4ck3r0/Lemon-termux`
 * `cd Lemon-termux`
-* `bash lemon.sh`
-* `Java 8 Added Successfully`
+* `bash lemon.sh -i`
 
 #### Install Java To Fix Build Error
 
